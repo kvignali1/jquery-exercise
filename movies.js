@@ -1,3 +1,6 @@
+// === Citation start ===
+// solution used due to time constraints
+
 // id to keep track of which element to remove (this would be better not in global scope)
 let currentId = 0;
 
@@ -92,3 +95,4 @@ function createMovieDataHTML(data) {
     <tr>
   `;
 }
+// === citation end ===
